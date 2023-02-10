@@ -3,5 +3,5 @@ module "frontend" {
   COMPONENT = var.COMPONENT
   ENV = var.ENV
   instances = var.instances
-  //APP_PORT = 80
+  APP_PORT = 80
 }
